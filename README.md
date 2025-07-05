@@ -9,4 +9,5 @@ TOKEN=YOUR-TG-BOT-TOKEN
 ADMIN_ID_LIST=[111111111,222222222]
 ```
 ## Run
+`pip install -r requirements.txt`
 `python run.py`
